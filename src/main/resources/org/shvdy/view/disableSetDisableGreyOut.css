@@ -1,0 +1,7 @@
+*:disabled {
+    -fx-opacity: 1;
+}
+
+.button:disabled {
+    -fx-opacity: 0.4;
+}
